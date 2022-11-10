@@ -4,7 +4,7 @@ Class-Conditional-Sharing Clients**](https://openreview.net/forum?id=WHA8009laxu
 
 I was not a participant in the article, and a lot of code in this [**link**](https://github.com/lunanbit/FedUL) is referenced.  
 
-The notebooks can be run on [**Kaggle**](https://www.kaggle.com/).
+The notebooks can be run on [**Kaggle**](https://www.kaggle.com/). But you need to add the [**datat**](https://www.kaggle.com/competitions/rsna-intracranial-hemorrhage-detection) to your workspace firstly.
 
 ## References
 
